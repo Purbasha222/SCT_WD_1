@@ -35,8 +35,6 @@ Built with Vite + React for optimal performance.
 
 - TailwindCSS
 
-- JavaScript (ES6+)
-
 🚀 **Live Demo**
 
 🔗 **Live URL:** https://sct-wd-1.netlify.app/
