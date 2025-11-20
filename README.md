@@ -38,3 +38,5 @@ Built with Vite + React for optimal performance.
 - JavaScript (ES6+)
 
 🚀 **Live Demo**
+
+🔗 **Live URL:** https://sct-wd-1.netlify.app/
