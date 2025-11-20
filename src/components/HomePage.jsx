@@ -17,10 +17,9 @@ function HomePage() {
             The Pleasant Experience To Your Taste Buds
           </h1>
           <p className="mt-5 text-lg">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus
-            iusto fugiat, excepturi saepe molestias autem sit voluptatibus?
-            Itaque non mollitia cum, culpa inventore nisi et natus debitis porro
-            saepe perspiciatis.
+            Authentic Italian Flavours. Enjoy the rich taste of Italy with fresh
+            ingredients, classic sauces, and handcrafted dishes that bring true
+            Mediterranean warmth to every bite.
           </p>
           <button className="border rounded-full px-5 md:px-10 text-lg md:text-3xl font-bold bg-red-400 p-3 mt-5">
             Order Now
