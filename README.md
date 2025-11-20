@@ -17,7 +17,7 @@ This project focuses on creating a clean UI with a functional, interactive, and 
 
 - Showcases an Italian restaurant with a clean and warm aesthetic.
 
-- Includes sections like Home, About, Contact, and Menu.
+- Includes sections like Home, About, Contact.
 
 📱 **Fully Responsive**
 
